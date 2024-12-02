@@ -7,7 +7,7 @@ const sponsors = [
   "Apex Mobile Wellness",
   "Brick It Solutions",
   "Piping Rock",
-  "SNUG HARBOR JEWELRY INC"
+  "Snug Harbor Jewelry INC"
 ];
 
 export default function SponsorBanner() {
